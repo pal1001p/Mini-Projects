@@ -11,9 +11,3 @@ Or run the command make run_simulation.
 To run the program, run the commands:
 	./run_simulation <seed> <total_min> <arrival_prob> <order_prob> <num_queues> <outputFile>
 
-Sources:
-Piazza discussion posts
-https://www.delftstack.com/howto/cpp/how-to-iterate-through-a-vector-in-cpp/ 
-To better understand how to iterate through a vector.
-https://www.geeksforgeeks.org/convert-string-to-int-in-cpp/
-For conversions between different types.
