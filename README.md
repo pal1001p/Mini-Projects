@@ -1,4 +1,4 @@
 # Projects
-A collection of personal projects and skill development.
+A compilation of personal projects and assignments/skill development from college courses.
 Includes work in C, C++, Java, HTML, CSS and JavaScript.
-Compiles work from fall of 2023 onwards.
+Includes work from fall of 2023 onwards.
