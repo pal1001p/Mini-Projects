@@ -11,4 +11,4 @@ Or run the command make run_simulation.
 To run the program, run the commands:
 	./run_simulation <seed> <total_min> <arrival_prob> <order_prob> <num_queues> <outputFile>
 
-Used for CS2303 System Programming Concepts assignment.
+Used for CS2303 Systems Programming Concepts assignment.
