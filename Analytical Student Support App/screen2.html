@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body onload="load()">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Analytical Student Support</title>
+
+    <div class="budget_container">
+      <div class="center_budget">Current Budget <span id="number"></span></div>
+    </div>
+
+    <div class="track_container">
+      <div class="center_track">Current Status <span id="status"></span></div>
+    </div>
+
+    <div class="transaction_header">Transactions</div>
+
+
+    <table>
+      <thead>
+        <tr>
+          <th>Amount</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody id="data">
+
+      </tbody>
+    </table>
+
+    <p></p>
+    <div class="user_input">User Input</div>
+    <p></p>
+
+    <form>
+      <label for="update_budget">New Budget</label>
+      <input type="text" id="update_budget" />
+      <label for="amt_spent">Amount Spent</label>
+      <input type="text" id="amt_spent" />
+      <label for="date">Date</label>
+      <input type="date" id="date" />
+      <button type="button" onclick="inputSpending()">Update All</button>
+    </form>
+    <button onclick = "cleardata()">
+      CLEAR
+    </button>
+  </body>
+</html>

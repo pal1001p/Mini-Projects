@@ -1,0 +1,260 @@
+:root {
+  --color-bg: #ec7d7d;
+  --color-text-main: #000000;
+  --color-primary: #ffff00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: "HK Grotesk";
+  --font-family-header: "HK Grotesk";
+}
+
+/* Basic page style resets */
+
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
+/* Import fonts */
+@font-face {
+  font-family: HK Grotesk;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+    format("opentype");
+}
+@font-face {
+  font-family: HK Grotesk;
+  font-weight: bold;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+    format("opentype");
+}
+
+/******************************************************************************
+END default styles
+******************************************************************************/
+
+body {
+  font-family: HK Grotesk;
+  background-color: var(--color-bg);
+}
+
+/* Page structure */
+.wrapper {
+  min-height: var(--wrapper-height);
+  display: grid;
+  place-items: center;
+  margin: 0 1rem;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title_banner {
+  background-color: lightyellow;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+
+  color: darkred;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.description {
+  background-color: darkred;
+  border: 20px solid darkred;
+  border-radius: 40px;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  color: lightyellow;
+  font-size: 20px;
+  margin-top: 150px;
+}
+
+button,
+input {
+  font-family: inherit;
+  font-size: 150%;
+  color: darkred;
+  background: lightyellow;
+  border: 20px solid lightyellow;
+  border-radius: 40px;
+  transition: 500ms;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.container {
+  height: 200px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/*CSS for Screen 2*/
+
+.budget_container {
+  height: 100px;
+  position: relative;
+}
+
+.center_budget {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-family: inherit;
+  font-size: 150%;
+  color: darkred;
+  background: lightyellow;
+  border: 20px solid lightyellow;
+  border-radius: 40px;
+  transition: 500ms;
+  font-weight: bold;
+}
+
+.track_container {
+  height: 100px;
+  position: relative;
+}
+
+.center_track {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-family: inherit;
+  font-size: 150%;
+  color: darkred;
+  background: lightyellow;
+  border: 20px solid lightyellow;
+  border-radius: 40px;
+  transition: 500ms;
+  font-weight: bold;
+}
+
+.add_container {
+  height: 200px;
+  position: relative;
+}
+
+.center_add {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.transaction_header {
+  background-color: darkred;
+  border: 20px solid darkred;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  color: lightyellow;
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+table {
+  overflow-y: scroll;
+  background: lightyellow;
+  height: 130px;
+  display: block;
+  border: 10px solid darkred;
+  border-radius: 10px;
+  margin-top: 0px;
+}
+th {
+  width: 75px;
+  left: 220px;
+  position: absolute;
+  color: darkred;
+  font-size: 15px;
+  text-align: right;
+}
+th:nth-of-type(2) {
+  left: 700px;
+  position: absolute;
+  color: darkred;
+}
+td {
+  padding-top: 18px;
+  font-size: 12px;
+  width: 700px;
+  color: darkred;
+  text-align: center;
+}
+
+.user_input {
+  background-color: darkred;
+  border: 20px solid darkred;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  color: lightyellow;
+  font-size: 20px;
+  font-weight: bold;
+}
+form {
+  display: flex;
+  flex-direction: row;
+}
+input[type="text"] {
+  color: darkred;
+  border-radius: 35px;
+  font-size: 12px;
+  width: 130px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+button[type="button"] {
+  border-radius: 40px;
+  background-color: darkred;
+  color: lightyellow;
+  font-size: 16px;
+  padding: 5px;
+  margin-left: 30px;
+  font-weight: bold;
+}
+
+label {
+  font-size: 16px;
+  background-color: darkred;
+  color: lightyellow;
+  padding: 8px;
+  border-radius: 20px;
+  height: 60px;
+  margin-right: 20px;
+}
