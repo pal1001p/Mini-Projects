@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <div class="card">
+    <div class="search">
+      <input type="text" placeholder="Enter location name" spellcheck="false">
+      <button> <img src="
+        https://drive.google.com/thumbnail?id=1eEpdpi95oEK501VfAhfTidR7RxtmIrTh"></button>
+    </div>
+
+    <div class="error">
+      <p> Invalid location name!</p>
+    </div>
+
+    <div class="weather">
+      <img src="file:///Users/Polina/Downloads/images/rain.png" class="weather-icon">
+      <h1 class="temp"> ... °C</h1>
+      <h2 class="city"> ... </h2>
+      <div class="details">
+        <div class="col">
+          <img src="
+          https://drive.google.com/thumbnail?id=1MVY3hqLFsNLQD0aN0njyBDUEjLfws87i" alt="">
+          <div>
+            <p class="humidity"> ...% </p>
+            <p> Humidity </p>
+          </div>
+          <div class="col">
+            <img src="
+            
+            https://drive.google.com/thumbnail?id=1REciW5M4Ir033bPIQgHnuNdwMfMdum2e" alt="">
+            <div>
+              <p class="wind"> ... km/hr </p>
+              <p> Wind Speed </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+
+      const apiKey = "39ec6ca644396209dbd6ae58c0ff8374";
+
+      const searchBox = document.querySelector(".search input");
+      const searchButton = document.querySelector(".search button");
+      const weatherIcon = document.querySelector(".weather-icon");
+
+      async function checkWeather(city) {
+        const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
+
+        const response = await fetch(apiUrl);
+
+        if (response.status == 404) {
+          document.querySelector(".error").style.display = "block";
+          document.querySelector(".weather").style.display = "none";
+        }
+
+        const data = await response.json();
+
+        document.querySelector(".city").innerHTML = data.name;
+        document.querySelector(".temp").innerHTML = Math.round(data.main.temp) + "°C";
+        document.querySelector(".humidity").innerHTML = data.main.humidity + "%";
+        document.querySelector(".wind").innerHTML = data.wind.speed + " km/hr";
+
+        const sunriseTime = data.sys.sunrise * 1000;
+        const sunsetTime = data.sys.sunset * 1000;
+        const currentTime = new Date().getTime();
+
+        if (currentTime > sunriseTime && currentTime < sunsetTime) {
+          if (data.weather[0].main == "Clouds") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=10O7EmXy46o3CoZKr26XH0RiMH6mv-N7R"
+          } else if (data.weather[0].main == "Clear") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1tOkgNF_ztO6qkDURZDOzE1lFHDAAeaaN"
+          } else if (data.weather[0].main == "Rain") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1iILy8Nk09xr9oHvCNABqmC8QUKWpj3TY"
+          } else if (data.weather[0].main == "Drizzle") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1052L1h98LMtLfdtiVxqs3F60efI_t_JS"
+          } else if (data.weather[0].main == "Mist") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1wIdNcP0eatVFs98gsoJQltIklIMcm0-9"
+          } else if (data.weather[0].main == "Snow") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1CcNPxZBPZ7BbFBeD8pz723g6gxF9bZnY"
+          }
+        }
+
+        if (currentTime > sunsetTime) {
+          if (data.weather[0].main == "Clouds") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1IUHPF4r1JGm3ArKGO73FJ72elsxGEJ1h" //updates
+          } else if (data.weather[0].main == "Clear") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1tnPrSeGadYbGLHaG7I76NAx58YkcfxNj" //updates
+          } else if (data.weather[0].main == "Rain") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1z0MOKAKYTAq-S4CiuAgMZ9jvpExMoxIM" //updates
+          } else if (data.weather[0].main == "Drizzle") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1z0MOKAKYTAq-S4CiuAgMZ9jvpExMoxIM" //updates (same as night rain)
+          } else if (data.weather[0].main == "Mist") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1wIdNcP0eatVFs98gsoJQltIklIMcm0-9" //no change
+          } else if (data.weather[0].main == "Snow") {
+            weatherIcon.src = "https://drive.google.com/thumbnail?id=1CcNPxZBPZ7BbFBeD8pz723g6gxF9bZnY" //no change
+          }
+        }
+
+
+        document.querySelector(".weather").style.display = "block";
+        document.querySelector(".error").style.display = "none";
+
+      }
+
+      searchButton.addEventListener("click", () => {
+        checkWeather(searchBox.value);
+      });
+
+      searchBox.addEventListener("keydown", function (e) {
+        if (e.key == 'Enter') {
+          e.preventDefault();
+          checkWeather(searchBox.value);
+        }
+      });
+
+    </script>
+</body>
+
+</html>
