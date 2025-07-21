@@ -1,0 +1,49 @@
+Instruction? Put page table for PID 2 into physical frame 0.
+Mapped virtual address 0 (page 0) into physical frame 1.
+Instruction? Mapped virtual address 16 (page 1) into physical frame 2.
+Instruction? Mapped virtual address 32 (page 2) into physical frame 3.
+Instruction? Swapped Frame 1 to disk at offset 0.
+Mapped virtual address 48 (page 3) into physical frame 1.
+Instruction? Swapped Frame 2 to disk at offset 16.
+Put page table for PID 0 into physical frame 2.
+Swapped Frame 3 to disk at offset 32.
+Mapped virtual address 0 (page 0) into physical frame 3.
+Instruction? Error: virtual address 0 does not have write permissions.
+Instruction? Updating permissions for virtual page 0 (frame 3)
+Instruction? Stored value 78 at virtual address 0 (physical address 48)
+Instruction? The value 78 was found at virtual address 0.
+Instruction? Swapped Frame 0 to disk at offset 48.
+Swapped disk offset 16 into Frame 0.
+Swapped Frame 3 to disk at offset 64.
+Swapped disk offset 48 into Frame 3.
+Swapped Frame 0 to disk at offset 80.
+Swapped disk offset 16 into Frame 0.
+Stored value 5 at virtual address 16 (physical address 0)
+Instruction? Swapped Frame 1 to disk at offset 96.
+Swapped disk offset 32 into Frame 1.
+Stored value 10 at virtual address 32 (physical address 16)
+Instruction? Swapped Frame 2 to disk at offset 112.
+Put page table for PID 3 into physical frame 2.
+Swapped Frame 3 to disk at offset 128.
+Mapped virtual address 32 (page 2) into physical frame 3.
+Instruction? Swapped Frame 0 to disk at offset 144.
+Swapped disk offset 128 into Frame 0.
+The value 1 was found at virtual address 16.
+Instruction? The value 10 was found at virtual address 32.
+Instruction? Stored value 20 at virtual address 32 (physical address 48)
+Instruction? The value 20 was found at virtual address 32.
+Instruction? Swapped Frame 1 to disk at offset 160.
+Swapped disk offset 112 into Frame 1.
+Swapped Frame 2 to disk at offset 176.
+Mapped virtual address 40 (page 2) into physical frame 2.
+Instruction? Error: virtual address 40 does not have write permissions.
+Instruction? Updating permissions for virtual page 2 (frame 2)
+Instruction? Stored value 30 at virtual address 40 (physical address 40)
+Instruction? The value 30 was found at virtual address 40.
+Instruction? The value 1 was found at virtual address 16.
+Instruction? Updating permissions for virtual page 0 (frame 0)
+Instruction? Swapped Frame 1 to disk at offset 192.
+Swapped disk offset 0 into Frame 1.
+Stored value 10 at virtual address 0 (physical address 16)
+Instruction? The value 10 was found at virtual address 0.
+Instruction? End of File.

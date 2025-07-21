@@ -1,0 +1,13 @@
+Instruction? Put page table for PID 0 into physical frame 0.
+Mapped virtual address 0 (page 0) into physical frame 1.
+Instruction? Error: Bad swap slot 0 for PID 0, VPN 1.
+Error: couldnt swap in for virtual address 16 in load function.
+Instruction? Incorrectly formatted instruction.
+Value should be NA for the load instruction.
+Instruction? Error: virtual page 0 is already mapped with rw_bit=0.
+Instruction? Error: virtual address 48 does not have write permissions.
+Instruction? Error: virtual address 15 does not have write permissions.
+Instruction? Invalid Process Id.  Process Id must be in range 0-3.
+Instruction? Mapped virtual address 16 (page 1) into physical frame 2.
+Instruction? Invalid value for store instruction. Value must be 0-255.
+Instruction? End of File.

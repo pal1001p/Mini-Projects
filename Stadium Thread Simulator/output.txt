@@ -1,0 +1,807 @@
+Script started on 2025-02-06 16:43:12-05:00 
+Reading seed value:  0 
+Seed as int: 0 
+  Pair ready! Rugby leader: 6
+  Rugby game started!
+  Pair ready! Rugby leader: 12
+  Pair ready! Rugby leader: 2
+  Pair ready! Rugby leader: 18
+  Pair ready! Rugby leader: 30
+  Pair ready! Rugby leader: 1
+  Pair ready! Rugby leader: 15
+  Pair ready! Rugby leader: 33
+    Baseball team ready! Leader: 22
+  Pair ready! Rugby leader: 50
+  Pair ready! Rugby leader: 5
+        Football team ready! Leader: 42
+  Pair ready! Rugby leader: 13
+  Pair ready! Rugby leader: 32
+  Pair ready! Rugby leader: 35
+  Pair ready! Rugby leader: 60
+  Pair ready! Rugby leader: 21
+  Check-in: Rugby players currently playing: [Player 6 at position 1, player 3 at position 2][Player 12 at position 3, player 11 at position 4][Player 2 at position 5, player 19 at position 6][Player 18 at position 7, player 14 at position 8][Player 30 at position 9, player 55 at position 10][Player 1 at position 11, player 10 at position 12][Player 15 at position 13, player 36 at position 14][Player 33 at position 15, player 44 at position 16][Player 50 at position 17, player 9 at position 18][Player 5 at position 19, player 4 at position 20][Player 13 at position 21, player 23 at position 22][Player 32 at position 23, player 28 at position 24][Player 35 at position 25, player 34 at position 26][Player 60 at position 27, player 7 at position 28][Player 21 at position 29, player 29 at position 30]
+  Rugby game ended!
+  Pair ready! Rugby leader: 52
+  Pair ready! Rugby leader: 37
+  Pair ready! Rugby leader: 17
+  Pair ready! Rugby leader: 45
+  Pair ready! Rugby leader: 26
+  Pair ready! Rugby leader: 31
+  Pair ready! Rugby leader: 54
+  Pair ready! Rugby leader: 16
+  Pair ready! Rugby leader: 22
+  Pair ready! Rugby leader: 57
+  Rugby game started!
+  Pair ready! Rugby leader: 27
+  Pair ready! Rugby leader: 38
+  Pair ready! Rugby leader: 48
+  Pair ready! Rugby leader: 56
+  Pair ready! Rugby leader: 59
+  Check-in: Rugby players currently playing: [Player 52 at position 1, player 51 at position 2][Player 37 at position 3, player 41 at position 4][Player 17 at position 5, player 43 at position 6][Player 45 at position 7, player 8 at position 8][Player 57 at position 9, player 24 at position 10][Player 31 at position 11, player 49 at position 12][Player 54 at position 13, player 42 at position 14][Player 26 at position 15, player 20 at position 16][Player 22 at position 17, player 47 at position 18][Player 16 at position 19, player 39 at position 20][Player 27 at position 21, player 25 at position 22][Player 38 at position 23, player 46 at position 24][Player 48 at position 25, player 40 at position 26][Player 56 at position 27, player 58 at position 28][Player 59 at position 29, player 53 at position 30]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 8 is playing at position 1.
+    Baseball player 18 is playing at position 2.
+    Baseball player 17 is playing at position 3.
+    Baseball player 34 is playing at position 4.
+    Baseball player 33 is playing at position 5.
+    Baseball player 32 is playing at position 6.
+    Baseball player 6 is playing at position 7.
+    Baseball player 4 is playing at position 8.
+    Baseball player 1 is playing at position 9.
+    Baseball player 10 is playing at position 10.
+    Baseball player 14 is playing at position 11.
+    Baseball player 12 is playing at position 12.
+    Baseball player 30 is playing at position 13.
+    Baseball player 29 is playing at position 14.
+    Baseball player 28 is playing at position 15.
+    Baseball player 13 is playing at position 16.
+    Baseball player 11 is playing at position 17.
+    Baseball player 22 is playing at position 18.
+  Pair ready! Rugby leader: 14
+  Pair ready! Rugby leader: 55
+  Pair ready! Rugby leader: 23
+  Pair ready! Rugby leader: 44
+  Pair ready! Rugby leader: 34
+  Pair ready! Rugby leader: 39
+  Pair ready! Rugby leader: 25
+  Pair ready! Rugby leader: 11
+    Baseball game ended!
+    Baseball team ready! Leader: 9
+  Rugby game started!
+  Pair ready! Rugby leader: 24
+  Pair ready! Rugby leader: 8
+  Pair ready! Rugby leader: 58
+  Pair ready! Rugby leader: 9
+  Pair ready! Rugby leader: 20
+  Pair ready! Rugby leader: 29
+  Pair ready! Rugby leader: 43
+  Check-in: Rugby players currently playing: [Player 14 at position 1, player 3 at position 2][Player 55 at position 3, player 10 at position 4][Player 23 at position 5, player 28 at position 6][Player 44 at position 7, player 4 at position 8][Player 34 at position 9, player 19 at position 10][Player 39 at position 11, player 36 at position 12][Player 25 at position 13, player 40 at position 14][Player 11 at position 15, player 51 at position 16][Player 24 at position 17, player 7 at position 18][Player 8 at position 19, player 49 at position 20][Player 58 at position 21, player 53 at position 22][Player 9 at position 23, player 41 at position 24][Player 20 at position 25, player 6 at position 26][Player 29 at position 27, player 46 at position 28][Player 43 at position 29, player 47 at position 30]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 42
+  Pair ready! Rugby leader: 40
+  Pair ready! Rugby leader: 10
+  Check-in: Rugby players currently playing: [Player 42 at position 1, player 28 at position 2][Player 40 at position 3, player 12 at position 4][Player 10 at position 5, player 3 at position 6]
+  Rugby game ended!
+        Football game started!
+        Football player 14 is playing at position 1.
+        Football player 37 is playing at position 2.
+        Football player 35 is playing at position 3.
+        Football player 1 is playing at position 4.
+        Football player 3 is playing at position 5.
+        Football player 10 is playing at position 6.
+        Football player 24 is playing at position 7.
+        Football player 17 is playing at position 8.
+        Football player 33 is playing at position 9.
+        Football player 9 is playing at position 10.
+        Football player 12 is playing at position 11.
+        Football player 11 is playing at position 12.
+        Football player 22 is playing at position 13.
+        Football player 21 is playing at position 14.
+        Football player 19 is playing at position 15.
+        Football player 18 is playing at position 16.
+        Football player 27 is playing at position 17.
+        Football player 39 is playing at position 18.
+        Football player 29 is playing at position 19.
+        Football player 41 is playing at position 20.
+        Football player 44 is playing at position 21.
+        Football player 42 is playing at position 22.
+  Pair ready! Rugby leader: 19
+  Pair ready! Rugby leader: 4
+  Pair ready! Rugby leader: 41
+        Football game ended!
+        Football team ready! Leader: 5
+  Rugby game started!
+  Pair ready! Rugby leader: 7
+  Check-in: Rugby players currently playing: [Player 19 at position 1, player 36 at position 2][Player 4 at position 3, player 51 at position 4][Player 41 at position 5, player 53 at position 6][Player 7 at position 7, player 49 at position 8]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 46
+  Pair ready! Rugby leader: 50
+  Check-in: Rugby players currently playing: [Player 46 at position 1, player 6 at position 2][Player 50 at position 3, player 36 at position 4]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 24 is playing at position 1.
+    Baseball player 21 is playing at position 2.
+    Baseball player 20 is playing at position 3.
+    Baseball player 19 is playing at position 4.
+    Baseball player 7 is playing at position 5.
+    Baseball player 26 is playing at position 6.
+    Baseball player 27 is playing at position 7.
+    Baseball player 15 is playing at position 8.
+    Baseball player 31 is playing at position 9.
+    Baseball player 35 is playing at position 10.
+    Baseball player 16 is playing at position 11.
+    Baseball player 5 is playing at position 12.
+    Baseball player 2 is playing at position 13.
+    Baseball player 23 is playing at position 14.
+    Baseball player 36 is playing at position 15.
+    Baseball player 25 is playing at position 16.
+    Baseball player 3 is playing at position 17.
+    Baseball player 9 is playing at position 18.
+  Pair ready! Rugby leader: 28
+  Pair ready! Rugby leader: 12
+    Baseball game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 5
+  Pair ready! Rugby leader: 13
+  Pair ready! Rugby leader: 47
+  Check-in: Rugby players currently playing: [Player 28 at position 1, player 51 at position 2][Player 12 at position 3, player 3 at position 4][Player 5 at position 5, player 53 at position 6][Player 13 at position 7, player 49 at position 8][Player 47 at position 9, player 6 at position 10]
+  Rugby game ended!
+  Rugby game started!
+  Check-in: Rugby players currently playing: 
+  Rugby game ended!
+        Football game started!
+        Football player 40 is playing at position 1.
+        Football player 26 is playing at position 2.
+        Football player 25 is playing at position 3.
+        Football player 38 is playing at position 4.
+        Football player 6 is playing at position 5.
+        Football player 36 is playing at position 6.
+        Football player 7 is playing at position 7.
+        Football player 34 is playing at position 8.
+        Football player 32 is playing at position 9.
+        Football player 30 is playing at position 10.
+        Football player 28 is playing at position 11.
+        Football player 43 is playing at position 12.
+        Football player 2 is playing at position 13.
+        Football player 4 is playing at position 14.
+        Football player 16 is playing at position 15.
+        Football player 23 is playing at position 16.
+        Football player 31 is playing at position 17.
+        Football player 8 is playing at position 18.
+        Football player 13 is playing at position 19.
+        Football player 15 is playing at position 20.
+        Football player 20 is playing at position 21.
+        Football player 5 is playing at position 22.
+  Pair ready! Rugby leader: 32
+        Football game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 36
+    Baseball team ready! Leader: 8
+  Check-in: Rugby players currently playing: [Player 32 at position 1, player 3 at position 2][Player 36 at position 3, player 51 at position 4]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 18
+  Check-in: Rugby players currently playing: [Player 18 at position 1, player 53 at position 2]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 22 is playing at position 1.
+    Baseball player 28 is playing at position 2.
+    Baseball player 29 is playing at position 3.
+    Baseball player 36 is playing at position 4.
+    Baseball player 13 is playing at position 5.
+    Baseball player 1 is playing at position 6.
+    Baseball player 23 is playing at position 7.
+    Baseball player 17 is playing at position 8.
+    Baseball player 6 is playing at position 9.
+    Baseball player 3 is playing at position 10.
+    Baseball player 10 is playing at position 11.
+    Baseball player 12 is playing at position 12.
+    Baseball player 27 is playing at position 13.
+    Baseball player 35 is playing at position 14.
+    Baseball player 30 is playing at position 15.
+    Baseball player 2 is playing at position 16.
+    Baseball player 9 is playing at position 17.
+    Baseball player 8 is playing at position 18.
+  Pair ready! Rugby leader: 49
+  Pair ready! Rugby leader: 15
+        Football team ready! Leader: 17
+    Baseball game ended!
+  Rugby game started!
+  Check-in: Rugby players currently playing: [Player 49 at position 1, player 6 at position 2][Player 15 at position 3, player 51 at position 4]
+  Rugby game ended!
+  Rugby game started!
+Baseball player 8 has played twice. Exiting.
+Rugby player 18 has played twice. Exiting.
+  Check-in: Rugby players currently playing: 
+  Rugby game ended!
+        Football game started!
+        Football player 42 is playing at position 1.
+        Football player 8 is playing at position 2.
+        Football player 11 is playing at position 3.
+        Football player 30 is playing at position 4.
+        Football player 44 is playing at position 5.
+        Football player 25 is playing at position 6.
+        Football player 15 is playing at position 7.
+        Football player 3 is playing at position 8.
+        Football player 5 is playing at position 9.
+        Football player 1 is playing at position 10.
+        Football player 31 is playing at position 11.
+        Football player 6 is playing at position 12.
+        Football player 37 is playing at position 13.
+        Football player 16 is playing at position 14.
+        Football player 22 is playing at position 15.
+        Football player 14 is playing at position 16.
+        Football player 27 is playing at position 17.
+        Football player 12 is playing at position 18.
+        Football player 7 is playing at position 19.
+        Football player 24 is playing at position 20.
+        Football player 23 is playing at position 21.
+        Football player 17 is playing at position 22.
+  Pair ready! Rugby leader: 33
+        Football game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 53
+  Pair ready! Rugby leader: 3
+Football player 27 has played twice. Exiting.
+Football player 17 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 33 at position 1, player 6 at position 2][Player 53 at position 3, player 46 at position 4][Player 3 at position 5, player 51 at position 6]
+  Rugby game ended!
+  Rugby game started!
+  Check-in: Rugby players currently playing: 
+  Rugby game ended!
+  Pair ready! Rugby leader: 49
+  Pair ready! Rugby leader: 46
+  Pair ready! Rugby leader: 51
+  Pair ready! Rugby leader: 6
+  Pair ready! Rugby leader: 38
+exit
+^C
+exit
+
+Script done on 2025-02-06 16:45:22-05:00 [COMMAND_EXIT_CODE="130"]
+
+
+
+
+
+Script started on 2025-02-06 16:46:48-05:00
+Reading seed value:  123456789 
+Seed as int: 123456789 
+  Pair ready! Rugby leader: 3
+  Rugby game started!
+  Pair ready! Rugby leader: 8
+  Pair ready! Rugby leader: 13
+  Pair ready! Rugby leader: 28
+  Pair ready! Rugby leader: 43
+  Pair ready! Rugby leader: 11
+  Pair ready! Rugby leader: 14
+  Pair ready! Rugby leader: 44
+  Pair ready! Rugby leader: 57
+  Pair ready! Rugby leader: 53
+  Pair ready! Rugby leader: 60
+        Football team ready! Leader: 1
+    Baseball team ready! Leader: 34
+  Pair ready! Rugby leader: 2
+  Pair ready! Rugby leader: 7
+  Pair ready! Rugby leader: 12
+  Pair ready! Rugby leader: 35
+  Check-in: Rugby players currently playing: [Player 3 at position 1, player 1 at position 2][Player 8 at position 3, player 10 at position 4][Player 13 at position 5, player 27 at position 6][Player 28 at position 7, player 32 at position 8][Player 43 at position 9, player 51 at position 10][Player 11 at position 11, player 16 at position 12][Player 14 at position 13, player 36 at position 14][Player 44 at position 15, player 42 at position 16][Player 53 at position 17, player 58 at position 18][Player 57 at position 19, player 59 at position 20][Player 60 at position 21, player 55 at position 22][Player 2 at position 23, player 9 at position 24][Player 7 at position 25, player 6 at position 26][Player 12 at position 27, player 29 at position 28][Player 35 at position 29, player 39 at position 30]
+  Rugby game ended!
+  Pair ready! Rugby leader: 46
+  Pair ready! Rugby leader: 5
+  Pair ready! Rugby leader: 34
+  Pair ready! Rugby leader: 45
+  Pair ready! Rugby leader: 38
+  Pair ready! Rugby leader: 41
+  Pair ready! Rugby leader: 22
+  Pair ready! Rugby leader: 17
+  Pair ready! Rugby leader: 15
+  Rugby game started!
+  Pair ready! Rugby leader: 52
+  Pair ready! Rugby leader: 20
+  Pair ready! Rugby leader: 31
+  Pair ready! Rugby leader: 50
+  Pair ready! Rugby leader: 21
+  Pair ready! Rugby leader: 40
+  Check-in: Rugby players currently playing: [Player 46 at position 1, player 23 at position 2][Player 5 at position 3, player 19 at position 4][Player 34 at position 5, player 26 at position 6][Player 45 at position 7, player 47 at position 8][Player 38 at position 9, player 25 at position 10][Player 41 at position 11, player 30 at position 12][Player 22 at position 13, player 33 at position 14][Player 17 at position 15, player 4 at position 16][Player 15 at position 17, player 56 at position 18][Player 52 at position 19, player 18 at position 20][Player 20 at position 21, player 24 at position 22][Player 31 at position 23, player 48 at position 24][Player 50 at position 25, player 54 at position 26][Player 21 at position 27, player 37 at position 28][Player 40 at position 29, player 49 at position 30]
+  Rugby game ended!
+        Football game started!
+        Football player 2 is playing at position 1.
+        Football player 8 is playing at position 2.
+        Football player 11 is playing at position 3.
+        Football player 10 is playing at position 4.
+        Football player 23 is playing at position 5.
+        Football player 22 is playing at position 6.
+        Football player 20 is playing at position 7.
+        Football player 25 is playing at position 8.
+        Football player 27 is playing at position 9.
+        Football player 35 is playing at position 10.
+        Football player 39 is playing at position 11.
+        Football player 44 is playing at position 12.
+        Football player 5 is playing at position 13.
+        Football player 26 is playing at position 14.
+        Football player 24 is playing at position 15.
+        Football player 31 is playing at position 16.
+        Football player 29 is playing at position 17.
+        Football player 37 is playing at position 18.
+        Football player 36 is playing at position 19.
+        Football player 34 is playing at position 20.
+        Football player 40 is playing at position 21.
+        Football player 1 is playing at position 22.
+  Pair ready! Rugby leader: 55
+  Pair ready! Rugby leader: 32
+        Football game ended!
+        Football team ready! Leader: 9
+  Pair ready! Rugby leader: 16
+    Baseball game started!
+    Baseball player 6 is playing at position 1.
+    Baseball player 3 is playing at position 2.
+    Baseball player 10 is playing at position 3.
+    Baseball player 16 is playing at position 4.
+    Baseball player 12 is playing at position 5.
+    Baseball player 20 is playing at position 6.
+    Baseball player 26 is playing at position 7.
+    Baseball player 36 is playing at position 8.
+    Baseball player 15 is playing at position 9.
+    Baseball player 24 is playing at position 10.
+    Baseball player 23 is playing at position 11.
+    Baseball player 30 is playing at position 12.
+    Baseball player 28 is playing at position 13.
+    Baseball player 8 is playing at position 14.
+    Baseball player 1 is playing at position 15.
+    Baseball player 18 is playing at position 16.
+    Baseball player 21 is playing at position 17.
+    Baseball player 34 is playing at position 18.
+  Pair ready! Rugby leader: 29
+  Pair ready! Rugby leader: 42
+  Pair ready! Rugby leader: 9
+  Pair ready! Rugby leader: 23
+  Pair ready! Rugby leader: 3
+  Pair ready! Rugby leader: 58
+  Pair ready! Rugby leader: 54
+  Pair ready! Rugby leader: 19
+  Pair ready! Rugby leader: 33
+  Pair ready! Rugby leader: 39
+    Baseball game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 6
+    Baseball team ready! Leader: 2
+  Pair ready! Rugby leader: 4
+  Check-in: Rugby players currently playing: [Player 55 at position 1, player 1 at position 2][Player 32 at position 3, player 51 at position 4][Player 16 at position 5, player 27 at position 6][Player 29 at position 7, player 36 at position 8][Player 42 at position 9, player 26 at position 10][Player 9 at position 11, player 25 at position 12][Player 23 at position 13, player 10 at position 14][Player 3 at position 15, player 49 at position 16][Player 58 at position 17, player 8 at position 18][Player 54 at position 19, player 59 at position 20][Player 19 at position 21, player 30 at position 22][Player 33 at position 23, player 24 at position 24][Player 39 at position 25, player 47 at position 26][Player 6 at position 27, player 37 at position 28][Player 4 at position 29, player 18 at position 30]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 48
+  Pair ready! Rugby leader: 1
+  Pair ready! Rugby leader: 36
+  Check-in: Rugby players currently playing: [Player 48 at position 1, player 56 at position 2][Player 1 at position 3, player 26 at position 4][Player 36 at position 5, player 51 at position 6]
+  Rugby game ended!
+        Football game started!
+        Football player 15 is playing at position 1.
+        Football player 6 is playing at position 2.
+        Football player 7 is playing at position 3.
+        Football player 14 is playing at position 4.
+        Football player 30 is playing at position 5.
+        Football player 3 is playing at position 6.
+        Football player 4 is playing at position 7.
+        Football player 38 is playing at position 8.
+        Football player 41 is playing at position 9.
+        Football player 43 is playing at position 10.
+        Football player 12 is playing at position 11.
+        Football player 18 is playing at position 12.
+        Football player 42 is playing at position 13.
+        Football player 28 is playing at position 14.
+        Football player 33 is playing at position 15.
+        Football player 17 is playing at position 16.
+        Football player 19 is playing at position 17.
+        Football player 32 is playing at position 18.
+        Football player 13 is playing at position 19.
+        Football player 16 is playing at position 20.
+        Football player 21 is playing at position 21.
+        Football player 9 is playing at position 22.
+  Pair ready! Rugby leader: 49
+  Pair ready! Rugby leader: 30
+  Pair ready! Rugby leader: 25
+  Pair ready! Rugby leader: 8
+  Pair ready! Rugby leader: 27
+        Football game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 2
+  Check-in: Rugby players currently playing: [Player 49 at position 1, player 47 at position 2][Player 30 at position 3, player 59 at position 4][Player 25 at position 5, player 10 at position 6][Player 8 at position 7, player 24 at position 8][Player 27 at position 9, player 37 at position 10][Player 2 at position 11, player 18 at position 12]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 26
+  Check-in: Rugby players currently playing: [Player 26 at position 1, player 56 at position 2]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 9 is playing at position 1.
+    Baseball player 17 is playing at position 2.
+    Baseball player 7 is playing at position 3.
+    Baseball player 4 is playing at position 4.
+    Baseball player 11 is playing at position 5.
+    Baseball player 13 is playing at position 6.
+    Baseball player 27 is playing at position 7.
+    Baseball player 32 is playing at position 8.
+    Baseball player 5 is playing at position 9.
+    Baseball player 29 is playing at position 10.
+    Baseball player 35 is playing at position 11.
+    Baseball player 14 is playing at position 12.
+    Baseball player 19 is playing at position 13.
+    Baseball player 22 is playing at position 14.
+    Baseball player 25 is playing at position 15.
+    Baseball player 31 is playing at position 16.
+    Baseball player 33 is playing at position 17.
+    Baseball player 2 is playing at position 18.
+    Baseball game ended!
+  Pair ready! Rugby leader: 7
+  Rugby game started!
+  Pair ready! Rugby leader: 51
+  Check-in: Rugby players currently playing: [Player 7 at position 1, player 59 at position 2][Player 51 at position 3, player 47 at position 4]
+  Rugby game ended!
+  Rugby game started!
+        Football team ready! Leader: 44
+  Pair ready! Rugby leader: 10
+  Pair ready! Rugby leader: 18
+  Check-in: Rugby players currently playing: [Player 10 at position 1, player 24 at position 2][Player 18 at position 3, player 44 at position 4]
+  Rugby game ended!
+        Football game started!
+        Football player 1 is playing at position 1.
+        Football player 7 is playing at position 2.
+        Football player 26 is playing at position 3.
+        Football player 14 is playing at position 4.
+        Football player 25 is playing at position 5.
+        Football player 27 is playing at position 6.
+        Football player 9 is playing at position 7.
+        Football player 22 is playing at position 8.
+        Football player 32 is playing at position 9.
+        Football player 10 is playing at position 10.
+        Football player 5 is playing at position 11.
+        Football player 37 is playing at position 12.
+        Football player 16 is playing at position 13.
+        Football player 8 is playing at position 14.
+        Football player 36 is playing at position 15.
+        Football player 11 is playing at position 16.
+        Football player 18 is playing at position 17.
+        Football player 33 is playing at position 18.
+        Football player 21 is playing at position 19.
+        Football player 39 is playing at position 20.
+        Football player 4 is playing at position 21.
+        Football player 44 is playing at position 22.
+  Pair ready! Rugby leader: 11
+  Pair ready! Rugby leader: 56
+    Baseball team ready! Leader: 27
+        Football game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 37
+Football player 4 has played twice. Exiting.
+Football player 5 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 11 at position 1, player 47 at position 2][Player 56 at position 3, player 59 at position 4][Player 37 at position 5, player 6 at position 6]
+  Rugby game ended!
+  Rugby game started!
+Football player 22 has played twice. Exiting.
+Football player 44 has played twice. Exiting.
+  Check-in: Rugby players currently playing: 
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 34 is playing at position 1.
+    Baseball player 13 is playing at position 2.
+    Baseball player 6 is playing at position 3.
+    Baseball player 20 is playing at position 4.
+    Baseball player 3 is playing at position 5.
+    Baseball player 25 is playing at position 6.
+    Baseball player 19 is playing at position 7.
+    Baseball player 26 is playing at position 8.
+    Baseball player 18 is playing at position 9.
+    Baseball player 17 is playing at position 10.
+    Baseball player 14 is playing at position 11.
+    Baseball player 31 is playing at position 12.
+    Baseball player 16 is playing at position 13.
+    Baseball player 35 is playing at position 14.
+    Baseball player 23 is playing at position 15.
+    Baseball player 30 is playing at position 16.
+    Baseball player 2 is playing at position 17.
+    Baseball player 27 is playing at position 18.
+  Pair ready! Rugby leader: 47
+  Pair ready! Rugby leader: 24
+    Baseball game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 4
+  Check-in: Rugby players currently playing: [Player 47 at position 1, player 59 at position 2][Player 24 at position 3, player 44 at position 4][Player 4 at position 5, player 10 at position 6]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 59
+Baseball player 27 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 59 at position 1, player 6 at position 2]
+  Rugby game ended!
+  Pair ready! Rugby leader: 18
+Rugby player 7 has played twice. Exiting.
+  Pair ready! Rugby leader: 50
+  Pair ready! Rugby leader: 6
+  Pair ready! Rugby leader: 10
+^C
+exit
+
+Script done on 2025-02-06 16:48:47-05:00 [COMMAND_EXIT_CODE="130"]
+
+
+
+
+
+
+
+Script started on 2025-02-06 16:50:13-05:00 
+Reading seed value:  1234 
+Seed as int: 1234 
+  Pair ready! Rugby leader: 3
+  Rugby game started!
+  Pair ready! Rugby leader: 5
+  Pair ready! Rugby leader: 31
+  Pair ready! Rugby leader: 41
+  Pair ready! Rugby leader: 55
+  Pair ready! Rugby leader: 6
+  Pair ready! Rugby leader: 19
+  Pair ready! Rugby leader: 16
+  Pair ready! Rugby leader: 26
+    Baseball team ready! Leader: 30
+        Football team ready! Leader: 15
+  Pair ready! Rugby leader: 36
+  Pair ready! Rugby leader: 27
+  Pair ready! Rugby leader: 23
+  Pair ready! Rugby leader: 35
+  Pair ready! Rugby leader: 45
+  Pair ready! Rugby leader: 60
+  Check-in: Rugby players currently playing: [Player 3 at position 1, player 8 at position 2][Player 5 at position 3, player 34 at position 4][Player 31 at position 5, player 30 at position 6][Player 41 at position 7, player 43 at position 8][Player 55 at position 9, player 54 at position 10][Player 6 at position 11, player 10 at position 12][Player 19 at position 13, player 18 at position 14][Player 16 at position 15, player 20 at position 16][Player 26 at position 17, player 24 at position 18][Player 36 at position 19, player 17 at position 20][Player 27 at position 21, player 25 at position 22][Player 23 at position 23, player 28 at position 24][Player 35 at position 25, player 39 at position 26][Player 45 at position 27, player 58 at position 28][Player 60 at position 29, player 1 at position 30]
+  Rugby game ended!
+  Pair ready! Rugby leader: 56
+  Pair ready! Rugby leader: 7
+  Pair ready! Rugby leader: 50
+  Pair ready! Rugby leader: 14
+  Pair ready! Rugby leader: 21
+  Pair ready! Rugby leader: 48
+  Pair ready! Rugby leader: 44
+  Rugby game started!
+  Pair ready! Rugby leader: 4
+  Pair ready! Rugby leader: 38
+  Pair ready! Rugby leader: 46
+  Pair ready! Rugby leader: 51
+  Pair ready! Rugby leader: 11
+  Pair ready! Rugby leader: 22
+  Pair ready! Rugby leader: 37
+  Pair ready! Rugby leader: 57
+  Check-in: Rugby players currently playing: [Player 56 at position 1, player 15 at position 2][Player 7 at position 3, player 9 at position 4][Player 50 at position 5, player 53 at position 6][Player 14 at position 7, player 49 at position 8][Player 21 at position 9, player 33 at position 10][Player 48 at position 11, player 40 at position 12][Player 44 at position 13, player 12 at position 14][Player 4 at position 15, player 29 at position 16][Player 38 at position 17, player 47 at position 18][Player 46 at position 19, player 52 at position 20][Player 51 at position 21, player 2 at position 22][Player 11 at position 23, player 13 at position 24][Player 22 at position 25, player 32 at position 26][Player 37 at position 27, player 42 at position 28][Player 57 at position 29, player 59 at position 30]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 1 is playing at position 1.
+    Baseball player 15 is playing at position 2.
+    Baseball player 26 is playing at position 3.
+    Baseball player 29 is playing at position 4.
+    Baseball player 32 is playing at position 5.
+    Baseball player 7 is playing at position 6.
+    Baseball player 10 is playing at position 7.
+    Baseball player 18 is playing at position 8.
+    Baseball player 25 is playing at position 9.
+    Baseball player 24 is playing at position 10.
+    Baseball player 33 is playing at position 11.
+    Baseball player 9 is playing at position 12.
+    Baseball player 8 is playing at position 13.
+    Baseball player 17 is playing at position 14.
+    Baseball player 23 is playing at position 15.
+    Baseball player 22 is playing at position 16.
+    Baseball player 21 is playing at position 17.
+    Baseball player 30 is playing at position 18.
+  Pair ready! Rugby leader: 8
+    Baseball game ended!
+    Baseball team ready! Leader: 35
+        Football game started!
+        Football player 4 is playing at position 1.
+        Football player 1 is playing at position 2.
+        Football player 14 is playing at position 3.
+        Football player 21 is playing at position 4.
+        Football player 26 is playing at position 5.
+        Football player 28 is playing at position 6.
+        Football player 33 is playing at position 7.
+        Football player 37 is playing at position 8.
+        Football player 35 is playing at position 9.
+        Football player 13 is playing at position 10.
+        Football player 20 is playing at position 11.
+        Football player 25 is playing at position 12.
+        Football player 24 is playing at position 13.
+        Football player 29 is playing at position 14.
+        Football player 40 is playing at position 15.
+        Football player 36 is playing at position 16.
+        Football player 5 is playing at position 17.
+        Football player 10 is playing at position 18.
+        Football player 9 is playing at position 19.
+        Football player 18 is playing at position 20.
+        Football player 17 is playing at position 21.
+        Football player 15 is playing at position 22.
+  Pair ready! Rugby leader: 43
+  Pair ready! Rugby leader: 1
+  Pair ready! Rugby leader: 24
+  Pair ready! Rugby leader: 54
+  Pair ready! Rugby leader: 3
+        Football game ended!
+  Pair ready! Rugby leader: 25
+        Football team ready! Leader: 43
+  Rugby game started!
+  Pair ready! Rugby leader: 15
+  Pair ready! Rugby leader: 34
+  Pair ready! Rugby leader: 40
+  Pair ready! Rugby leader: 29
+  Check-in: Rugby players currently playing: [Player 8 at position 1, player 20 at position 2][Player 43 at position 3, player 28 at position 4][Player 1 at position 5, player 18 at position 6][Player 24 at position 7, player 47 at position 8][Player 54 at position 9, player 10 at position 10][Player 3 at position 11, player 17 at position 12][Player 25 at position 13, player 39 at position 14][Player 15 at position 15, player 53 at position 16][Player 34 at position 17, player 49 at position 18][Player 40 at position 19, player 5 at position 20][Player 29 at position 21, player 30 at position 22]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 58
+  Pair ready! Rugby leader: 13
+  Pair ready! Rugby leader: 9
+  Check-in: Rugby players currently playing: [Player 58 at position 1, player 59 at position 2][Player 13 at position 3, player 52 at position 4][Player 9 at position 5, player 12 at position 6]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 28 is playing at position 1.
+    Baseball player 16 is playing at position 2.
+    Baseball player 12 is playing at position 3.
+    Baseball player 6 is playing at position 4.
+    Baseball player 4 is playing at position 5.
+    Baseball player 14 is playing at position 6.
+    Baseball player 27 is playing at position 7.
+    Baseball player 2 is playing at position 8.
+    Baseball player 11 is playing at position 9.
+    Baseball player 20 is playing at position 10.
+    Baseball player 34 is playing at position 11.
+    Baseball player 36 is playing at position 12.
+    Baseball player 5 is playing at position 13.
+    Baseball player 13 is playing at position 14.
+    Baseball player 19 is playing at position 15.
+    Baseball player 3 is playing at position 16.
+    Baseball player 31 is playing at position 17.
+    Baseball player 35 is playing at position 18.
+  Pair ready! Rugby leader: 20
+  Pair ready! Rugby leader: 42
+    Baseball game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 17
+  Pair ready! Rugby leader: 33
+  Pair ready! Rugby leader: 47
+  Pair ready! Rugby leader: 53
+  Check-in: Rugby players currently playing: [Player 20 at position 1, player 32 at position 2][Player 42 at position 3, player 2 at position 4][Player 17 at position 5, player 28 at position 6][Player 33 at position 7, player 39 at position 8][Player 47 at position 9, player 36 at position 10][Player 53 at position 11, player 5 at position 12]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 10
+  Pair ready! Rugby leader: 18
+  Check-in: Rugby players currently playing: [Player 10 at position 1, player 12 at position 2][Player 18 at position 3, player 32 at position 4]
+  Rugby game ended!
+        Football game started!
+        Football player 8 is playing at position 1.
+        Football player 7 is playing at position 2.
+        Football player 12 is playing at position 3.
+        Football player 16 is playing at position 4.
+        Football player 31 is playing at position 5.
+        Football player 44 is playing at position 6.
+        Football player 3 is playing at position 7.
+        Football player 22 is playing at position 8.
+        Football player 27 is playing at position 9.
+        Football player 30 is playing at position 10.
+        Football player 39 is playing at position 11.
+        Football player 32 is playing at position 12.
+        Football player 38 is playing at position 13.
+        Football player 41 is playing at position 14.
+        Football player 2 is playing at position 15.
+        Football player 6 is playing at position 16.
+        Football player 11 is playing at position 17.
+        Football player 19 is playing at position 18.
+        Football player 23 is playing at position 19.
+        Football player 34 is playing at position 20.
+        Football player 42 is playing at position 21.
+        Football player 43 is playing at position 22.
+  Pair ready! Rugby leader: 49
+  Pair ready! Rugby leader: 27
+        Football game ended!
+  Rugby game started!
+    Baseball team ready! Leader: 35
+  Pair ready! Rugby leader: 59
+  Check-in: Rugby players currently playing: [Player 49 at position 1, player 30 at position 2][Player 27 at position 3, player 52 at position 4][Player 59 at position 5, player 2 at position 6]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 39
+  Check-in: Rugby players currently playing: [Player 39 at position 1, player 36 at position 2]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 25 is playing at position 1.
+    Baseball player 30 is playing at position 2.
+    Baseball player 33 is playing at position 3.
+    Baseball player 29 is playing at position 4.
+    Baseball player 32 is playing at position 5.
+    Baseball player 13 is playing at position 6.
+    Baseball player 5 is playing at position 7.
+    Baseball player 2 is playing at position 8.
+    Baseball player 21 is playing at position 9.
+    Baseball player 11 is playing at position 10.
+    Baseball player 14 is playing at position 11.
+    Baseball player 6 is playing at position 12.
+    Baseball player 27 is playing at position 13.
+    Baseball player 31 is playing at position 14.
+    Baseball player 1 is playing at position 15.
+    Baseball player 22 is playing at position 16.
+    Baseball player 36 is playing at position 17.
+    Baseball player 35 is playing at position 18.
+  Pair ready! Rugby leader: 5
+    Baseball game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 19
+  Pair ready! Rugby leader: 32
+        Football team ready! Leader: 1
+  Check-in: Rugby players currently playing: [Player 5 at position 1, player 55 at position 2][Player 19 at position 3, player 12 at position 4][Player 32 at position 5, player 30 at position 6]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 2
+Baseball player 35 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 2 at position 1, player 15 at position 2]
+  Rugby game ended!
+        Football game started!
+        Football player 25 is playing at position 1.
+        Football player 40 is playing at position 2.
+        Football player 10 is playing at position 3.
+        Football player 17 is playing at position 4.
+        Football player 15 is playing at position 5.
+        Football player 18 is playing at position 6.
+        Football player 28 is playing at position 7.
+        Football player 4 is playing at position 8.
+        Football player 14 is playing at position 9.
+        Football player 30 is playing at position 10.
+        Football player 7 is playing at position 11.
+        Football player 33 is playing at position 12.
+        Football player 32 is playing at position 13.
+        Football player 21 is playing at position 14.
+        Football player 37 is playing at position 15.
+        Football player 9 is playing at position 16.
+        Football player 29 is playing at position 17.
+        Football player 19 is playing at position 18.
+        Football player 5 is playing at position 19.
+        Football player 43 is playing at position 20.
+        Football player 23 is playing at position 21.
+        Football player 1 is playing at position 22.
+        Football game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 36
+  Pair ready! Rugby leader: 52
+Football player 4 has played twice. Exiting.
+Football player 30 has played twice. Exiting.
+Football player 1 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 36 at position 1, player 55 at position 2][Player 52 at position 3, player 34 at position 4]
+  Rugby game ended!
+  Rugby game started!
+  Pair ready! Rugby leader: 12
+    Baseball team ready! Leader: 16
+Football player 9 has played twice. Exiting.
+Football player 14 has played twice. Exiting.
+Football player 18 has played twice. Exiting.
+  Check-in: Rugby players currently playing: [Player 12 at position 1, player 30 at position 2]
+  Rugby game ended!
+    Baseball game started!
+    Baseball player 10 is playing at position 1.
+    Baseball player 34 is playing at position 2.
+    Baseball player 19 is playing at position 3.
+    Baseball player 4 is playing at position 4.
+    Baseball player 24 is playing at position 5.
+    Baseball player 20 is playing at position 6.
+    Baseball player 8 is playing at position 7.
+    Baseball player 7 is playing at position 8.
+    Baseball player 23 is playing at position 9.
+    Baseball player 17 is playing at position 10.
+    Baseball player 18 is playing at position 11.
+    Baseball player 26 is playing at position 12.
+    Baseball player 3 is playing at position 13.
+    Baseball player 9 is playing at position 14.
+    Baseball player 12 is playing at position 15.
+    Baseball player 28 is playing at position 16.
+    Baseball player 15 is playing at position 17.
+    Baseball player 16 is playing at position 18.
+    Baseball game ended!
+  Rugby game started!
+^C
+exit
+
+Script done on 2025-02-06 16:51:21-05:00 [COMMAND_EXIT_CODE="130"]
+
